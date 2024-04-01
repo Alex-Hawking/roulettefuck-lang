@@ -30,9 +30,9 @@ With your `.rf` file ready, you can now execute it using the RouletteFuck interp
 
 **Run the RouletteFuck Interpreter**: To execute your RouletteFuck program, use the interpreter with the `.rf` file as its argument.
 
-    ```
-    ./interpreter yourprogram.rf
-    ```
+```
+./interpreter yourprogram.rf
+```
 
 
 Below is a simple 'Hello World!' program written in RouletteFuck:
